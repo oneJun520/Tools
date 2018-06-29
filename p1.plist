@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.fenqile.moa.vpn</string>
+				<string>cn.net.chinadaily.awork</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>EasyConnect</string>
+				<string>WebViewDemo</string>
 			</dict>
 		</dict>
 	</array>
